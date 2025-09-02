@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lucide-react": "^0.542.0",
+    "react-loading-skeleton": "^3.5.0",
+    "react-window": "^2.0.2"
+  }
+}

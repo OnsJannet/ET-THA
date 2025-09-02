@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499, "image": "/images/macbook-pro-5342546_1280.webp" },
+  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399, "image": "/images/headphone-1129896_1280.webp" },
+  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999, "image": "/images/computer-303283_1280.webp" },
+  { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799, "image": "/images/chair.webp" },
+  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199, "image": "/images/desk.webp" }
+]
